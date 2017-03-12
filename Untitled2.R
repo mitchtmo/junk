@@ -5,5 +5,6 @@ a/b + 1
 x = 2
 
 print(a)
-cat("x:", x)
+cat("x:", x, "\n")
+
 
